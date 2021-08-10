@@ -1,6 +1,6 @@
 import Head from 'next/head'
 // import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Home.module.scss'
 
 export default function Home() {
   return (
@@ -65,7 +65,7 @@ export default function Home() {
         </a>
       </footer> */}
       <h1>Hello everyone, I am Sahas Vivek, a frontend web developer</h1>
-      <p>Small change to check if everything is working</p>
+      <p>Adding the sass to this repo</p>
     </div>
   )
 }
