@@ -64,7 +64,7 @@ export default function Home() {
           </span>
         </a>
       </footer> */}
-      <h1>Hello world!</h1>
+      <h1>Hello everyone, I am Sahas Vivek, a frontend web developer</h1>
     </div>
   )
 }
