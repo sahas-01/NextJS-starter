@@ -65,6 +65,7 @@ export default function Home() {
         </a>
       </footer> */}
       <h1>Hello everyone, I am Sahas Vivek, a frontend web developer</h1>
+      <p>Small change to check if everything is working</p>
     </div>
   )
 }
