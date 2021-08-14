@@ -5,9 +5,12 @@ import styles from '../styles/Home.module.scss'
 
 export default function Home() {
   return (
-    <div>
+    <body>
       <Navbar />
-      <h1>Hello,I am Sahas Vivek</h1>
-    </div>
+      <div className="image">
+        {/* <img src="/Background(hero).png" alt="herobg" /> */}
+        <img src="/image 1.png" alt="image" />
+      </div>
+    </body>
   )
 }
